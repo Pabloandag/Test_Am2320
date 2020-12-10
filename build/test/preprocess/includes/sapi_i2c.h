@@ -1,3 +1,0 @@
----
-- src/sapi_datatypes.h
-- src/sapi_peripheral_map.h
