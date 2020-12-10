@@ -1,0 +1,5 @@
+---
+- C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/ceedling-0.30.0/vendor/unity/src/unity.h
+- src/am2320.h
+- build/test/mocks/mock_sapi_i2c.h
+- build/temp/_test_am2320.c
